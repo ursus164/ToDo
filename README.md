@@ -8,5 +8,12 @@ Simple ToDo app made in JavaScript. Provides basic features like editing current
 2. Open in your favourite IDE
 3. The simpliest way is to install LiveServer plugin, and then run `index.html`
 
+## Additional
+I am using FontAwesome icons, so If you want also to use them, you have to add your own kit. In order to do that, create account on FontAwesome, create your kit, and paste URL in provided place in the head section:
+
+![image](https://github.com/ursus164/ToDo-Js/assets/101526933/b5734d8e-666e-4988-9f65-9ea8307f2b34)
+
+
+
 ### Preview:
 
