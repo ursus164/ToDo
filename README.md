@@ -17,3 +17,6 @@ I am using FontAwesome icons, so If you want also to use them, you have to add y
 
 ### Preview:
 
+![image](https://github.com/ursus164/ToDo-Js/assets/101526933/f1181027-aa1b-47ac-a9a8-051df9a2f873)
+
+
